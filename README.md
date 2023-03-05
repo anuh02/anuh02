@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **anuhcs02@gmail.com**
 
-- ⚡ Fun fact **I'm curious learning new thing.**
+- ⚡ Fun fact **I'm curious for learning new thing.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
