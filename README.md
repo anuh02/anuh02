@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anushka Sharma</h1>
 <h3 align="center">A passionate Android Developer from India</h3>
 
-<img align = "right" alt = "coding" width = "400" src= "https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" >
+<img align = "right" alt = "coding" width = "400" src= "https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuh02&label=Profile%20views&color=0e75b6&style=flat" alt="anuh02" /> </p>
 
